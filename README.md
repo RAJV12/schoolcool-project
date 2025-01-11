@@ -37,4 +37,14 @@ The School Management System is a web-based application built using the MERN (Mo
 
 While signing up give a unique school name in create school name section.
 
+# frontend
+
+cd fromtend
+npm install
+npm start
+
+# backend
+
+cd backend
+npm start or node index.js
 
