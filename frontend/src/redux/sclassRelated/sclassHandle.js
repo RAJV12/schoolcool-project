@@ -14,7 +14,7 @@ import {
     getSubDetailsRequest
 } from './sclassSlice';
 
-const REACT_APP_BASE_URL = "https://schoolcool-project-backend.onrender.com";
+const REACT_APP_BASE_URL = "http://localhost:5000";
 
 export const getAllSclasses = (id, address) => async (dispatch) => {
     dispatch(getRequest());
