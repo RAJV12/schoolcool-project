@@ -39,7 +39,7 @@ While signing up give a unique school name in create school name section.
 
 # frontend
 
-cd fromtend
+cd frontend
 npm install
 npm start
 
